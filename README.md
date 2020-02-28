@@ -1,4 +1,4 @@
-# Hanze project 1.4
+# Canteen-Simulation
 
 ## TL;DR
 In the coming six weeks we will work on a canteen simulation. The final simulation is a text-based application where customers can choose items, stand in line and pay. All kinds of things such as paying with cash or pin and calculating turnover data are gradually discussed. The final part is aimed at learning how to work with more complex data structures and how data is stored.
@@ -15,5 +15,3 @@ Every week consists of a number of exercises. The first tasks are mainly aimed a
 
 ## Assignments
 All assignments can be found in the .docs folder
-
-> Instituut voor Communicatie, Media & IT, Hanzehogeschool Groningen 2018 - 2019
