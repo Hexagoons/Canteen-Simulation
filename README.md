@@ -14,10 +14,6 @@ Every week consists of a number of exercises. The first tasks are mainly aimed a
 * One grade will be give to the whole group, but the lecturer will deviate from this if there is a disproportionate division of work or the inability to explain an elaboration.
 
 ## Assignments
-All assignments can be found in the .docs folder.
-
-## Authors
-* Roy Voetman
-* Wouter Buursma
+All assignments can be found in the .docs folder
 
 > Instituut voor Communicatie, Media & IT, Hanzehogeschool Groningen 2018 - 2019
